@@ -60,7 +60,7 @@ Customer growth decreased by 41.1%
 
 This suggests that a short-term factor such as a marketing campaign, seasonal demand, or promotional offer may have driven the March spike, but it was not sustained in the following month.
 
-2️⃣ Sales Mode Performance
+2️⃣ **Sales Mode Performance**
 
 In **February**, the sales channels were relatively stable.
 The offline segment slightly declined, while online app sales showed growth.
@@ -94,13 +94,13 @@ These policies are mainly purchased by younger age groups
 
 4️⃣ **Revenue by Sales Channel**
 
-The majority of revenue comes from Offline Agents and Online channels, indicating these are the primary sales drivers.
+The majority of revenue comes from **Offline Agents and Online channels**, indicating these are the primary sales drivers.
 
 The least revenue comes from the Offline Direct channel.
 
 5️⃣ **Customer Distribution by Sales Channel**
 
-Most customers purchase policies through Offline Agents and Online channels, while Offline Direct contributes the smallest number of customers.
+Most customers purchase policies through **Offline Agents and Online channels**, while Offline Direct contributes the smallest number of customers.
 
 6️⃣ **Settlement Amount by Age Group**
 
