@@ -139,11 +139,11 @@ To improve customer acquisition, the company should focus on expanding **digital
 This project is a pilot initiative for **Shield Insurance** to demonstrate how Power BI and data analytics can transform raw insurance data into meaningful insights. The dashboard helps analyze revenue trends, customer behavior, and age group segments to support better data-driven decision-making.
 
 ## Dashboard
-[Home_Page](https://github.com/Saifahamad002/hospitality_analysis_report/blob/main/Home_Page.jpg)  
-[General View](https://github.com/Saifahamad002/sheild_insurence_dashboard/blob/main/Sheild_insurence_General_View.jpg)
-[Sales_Mode_Analysis](https://github.com/Saifahamad002/sheild_insurence_dashboard/blob/main/Sheild_insurence_Sales_mode.jpg)
-[Age_Group_Analysis](https://github.com/Saifahamad002/sheild_insurence_dashboard/blob/main/Sheild_insurence_age_group.jpg)
-[Video_Presentation](https://youtu.be/RwhNO0bX5Mc)
+[Home_Page](https://github.com/Saifahamad002/hospitality_analysis_report/blob/main/Home_Page.jpg)            
+[General View](https://github.com/Saifahamad002/sheild_insurence_dashboard/blob/main/Sheild_insurence_General_View.jpg)  
+[Sales_Mode_Analysis](https://github.com/Saifahamad002/sheild_insurence_dashboard/blob/main/Sheild_insurence_Sales_mode.jpg)  
+[Age_Group_Analysis](https://github.com/Saifahamad002/sheild_insurence_dashboard/blob/main/Sheild_insurence_age_group.jpg)  
+[Video_Presentation](https://youtu.be/RwhNO0bX5Mc)  
 
 ### 🙏 Thank You 
 
